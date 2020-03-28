@@ -22,10 +22,34 @@ Exemplo:
 
 As branchs serão dividas em camadas de desenvolvimento, baseado do modelo do GitFlow, sendo a `MASTER` a camada que contém a aplicação em sua versão estável, a `DEV` a versão de estado em desenvolvimento. Sendo que todas as branchs para as issues, usarão como base a `DEV`.
 
-O para nomes de branchs será composto por: US+NUMERO_DA_US - FUNCIONALIDADE.
+O formato para os nomes de branchs será composto por: US+NUMERO_DA_US - FUNCIONALIDADE.
 Exemplo:
 ```
 US13 - Creation of a new screen
 ```
 
 O formato de desenvolvimento então se segue da seguinte forma, partindo de uma versão de desenvolvimento da `DEV`, é criado uma branch conforme especificado, e depois de finalizado, é criado um pull request seguindo os padrões de template já posto no repositório, para adicionar a funcionalidade à branch. E logo em seguida aquela branch (se não houver mais uso para a mesma) deve ser apagada.
+
+### Ambiente desenvolvimento
+
+Criamos um ambiente para disponibilizar os artefatos desenvolvidos. Portanto, utilizamos o:
+
+`docsify` - É uma ferramenta para criação e desenvolvimento de documentações em __Markdown__, tornando mais agradável para o desenvolvedor configurar todo o design do site e também, consequentimente, podendo melhorar a legibilidade para o leitor.
+
+`Docker` - Docker é utilizado para criar uma ambiente isolado para desenvolvimento, a fim de não comprometer as maquinas dos desenvolvedores e também para mater uma versão única de desenvolvimento.
+
+#### Rodando o ambiente
+
+Para funcionar o ambiente de desenvolvimento basta rodar os seguintes comandos:
+
+    $ make create
+
+Isto irá buildar o ambiente.
+
+    $ make server
+
+E então este último irá rodar o container da documentação.
+
+Para vizualizar basta acessar:
+
+    http://localhost:3000
