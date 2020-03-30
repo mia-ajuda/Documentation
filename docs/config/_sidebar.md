@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
+
 <a href="/#/">
-    <img src="../assets/img/logo04.png" class="sidebar-logo">
+    <div class="sidebar-logo"></div>
 </a>
 
-* [Home](/)
-* [Quickstart](../_docs/docshere.md)
+- [Home](/)
+- [Quickstart](../_docs/docshere.md)
