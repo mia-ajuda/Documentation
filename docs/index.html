@@ -20,20 +20,20 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./assets/css/cover.css" />
+    <link rel="stylesheet" href="./assets/css/navbar.css" />
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
         name: "Projeto Mia Ajuda",
-        loadSidebar: true,
-        coverpage: true,
+        coverpage: "./config/_coverpage.md",
+        loadNavbar: "./config/_navbar.md",
         loadSidebar: "./config/_sidebar.md",
         themeable: {
           readyTransition: true, // default
           responsiveTables: true // default
-        }
-        // loadNavbar: true,
+        },
       };
     </script>
     <link
@@ -56,7 +56,6 @@
         --sidebar-toggle-offset-top: 10vh;
         --theme-color: #4b8ab9;
         --sidebar-nav-link-text-decoration--active: none;
-        --sidebar-nav-link-text-decoration--hover: none;
         --sidebar-name-font-weight: 500;
         --heading-h1-font-weight: 500;
         --base-font-family: "Montserrat", sans-serif;
@@ -72,12 +71,12 @@
         --sidebar-toggle-icon-stroke-width: 0;
         --sidebar-toggle-icon-width: 0;
         --sidebar-toggle-offset-left: 0;
-
+        --sidebar-nav-link-font-weight--active: 500;
         --sidebar-toggle-width: 0;
       }
       .markdown-section {
         padding: 2rem 0;
-        margin: 0 1rem;
+        margin: 3rem 1rem;
       }
     </style>
   </body>

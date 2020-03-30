@@ -1,0 +1,28 @@
+.app-nav {
+  color: #4b8ab9 !important;
+  margin-top: 2.5rem !important;
+}
+
+.github-corner {
+  display: none !important;
+}
+
+.app-nav ul li a {
+  padding: 0.6rem 1.2rem !important;
+  letter-spacing: 0.5px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  transition: all 0.25s !important;
+  border: 1.2px solid #353535 !important;
+  color: #353535 !important;
+  font-weight: 500;
+  border-radius: 0.2rem !important;
+}
+
+.app-nav ul li a:hover,
+.app-nav ul li a.active {
+  background-color: #353535e3 !important;
+  color: #f7f7f7 !important;
+  font-weight: 500;
+}
