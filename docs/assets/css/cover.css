@@ -1,0 +1,42 @@
+.cover {
+  background: #353535 !important;
+}
+
+.cover.show {
+  border-bottom: 0.4rem solid #e3eb8a;
+}
+
+.cover-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.cover-main h1 {
+  color: white !important;
+  font-size: 2rem !important;
+}
+
+.cover-main p {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.cover-main p img {
+  width: 16rem;
+  height: 16rem;
+  margin-top: 4rem;
+}
+
+.cover:after {
+  background: #4b8ab9;
+  background-image: url("../img/logo02.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+pre::after {
+  display: none !important;
+}

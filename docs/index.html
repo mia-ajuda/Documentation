@@ -19,6 +19,7 @@
       href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="./assets/css/cover.css" />
   </head>
   <body>
     <div id="app"></div>
@@ -28,7 +29,6 @@
         loadSidebar: true,
         coverpage: true,
         loadSidebar: "./config/_sidebar.md",
-        themeColor: "blue",
         themeable: {
           readyTransition: true, // default
           responsiveTables: true // default
@@ -53,13 +53,27 @@
 
         /* Change the theme color hue */
         --theme-hue: 325;
-        --sidebar-toggle-offset-top: 100vh;
+        --sidebar-toggle-offset-top: 10vh;
         --theme-color: #4b8ab9;
         --sidebar-nav-link-text-decoration--active: none;
         --sidebar-nav-link-text-decoration--hover: none;
         --sidebar-name-font-weight: 500;
         --heading-h1-font-weight: 500;
         --base-font-family: "Montserrat", sans-serif;
+
+        --sidebar-toggle-background: none;
+        --sidebar-toggle-border-color: none;
+        --sidebar-toggle-border-radius: none;
+        --sidebar-toggle-border-style: none;
+        --sidebar-toggle-border-width: 0;
+        --sidebar-toggle-height: 0;
+        --sidebar-toggle-icon-color: transparent;
+        --sidebar-toggle-icon-height: 0;
+        --sidebar-toggle-icon-stroke-width: 0;
+        --sidebar-toggle-icon-width: 0;
+        --sidebar-toggle-offset-left: 0;
+
+        --sidebar-toggle-width: 0;
       }
       .markdown-section {
         padding: 2rem 0;
