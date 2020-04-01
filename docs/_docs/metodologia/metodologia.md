@@ -4,7 +4,8 @@
 |Nome |  Versão | Descrição |  Data    |
 |-----------------------------------|--------------------|---------------|-----------------|
 | Milene Serrano | 1.0 | Diagramação e modelo original |29 Mar 2020 |
-| Eduardo Lima | 1.0.1 | Texto e transferência para Wiki | 01 Abr 2020
+| Eduardo Lima | 1.0.1 | Texto e transferência para Wiki | 01 Abr 2020 |
+
 A seguir está diagramada, de forma visual, a metodologia que será usada durante o desenvolvimento da aplicação Mia Ajuda:
 ![Metodologia](projeto_mia_ajuda-metodologia.png)
 Se trata de uma adaptação do **Scrum**, onde temos um **P.O**  (Product Owner), um **time de desensolvimento**  e um **Scrum Master**, cujas funções serão explicadas a seguir.

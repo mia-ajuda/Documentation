@@ -1,4 +1,11 @@
 # Principais Funcionalidades (até o momento)
+
+#### Histórico de Revisões
+|Nome |  Versão | Descrição |  Data    |
+|-----------------------------------|--------------------|---------------|-----------------|
+| Esio Gustavo Freitas | 1.0.1 | Fluxo Desenhado |28 Mar 2020 |
+| Todos | 1.0 | Esboço de Funcionalidades |29 Mar 2020 |
+
 ![V1_Fluxo Desenhado](V1_Fluxo_Desenhado.jpg)
 
 ## CRUD Usuário

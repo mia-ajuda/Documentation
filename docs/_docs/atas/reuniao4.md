@@ -3,6 +3,12 @@
         Data: 30 de Março de 2020
         Horário: das 20hrs às 21hrs:30min
 
+
+#### Histórico de Revisões
+|Nome |  Versão | Descrição |  Data    |
+|-----------------------------------|--------------------|---------------|-----------------|
+| Milene Serrano | 1.0 | Texto na íntegra |30 Mar 2020 |
+
 ## Memória Técnica
 * Não necessariamente é para fazer tudo nessa primeira release…
 

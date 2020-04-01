@@ -1,4 +1,10 @@
 # Product Backlog
+
+#### Histórico de Revisões
+|Nome |  Versão | Descrição |  Data    |
+|-----------------------------------|--------------------|---------------|-----------------|
+| Todos | 1.0 | Criação do Backlog |31 Mar 2020 |
+
 Segue o product backlog assim como discutido na [Reunião nº4](../_docs/atas/reuniao4.md).
 
 |Épico        |Feature        |FIELD3|US                                                                                                                                                                                             |Prioridade|Interessados                                 |
