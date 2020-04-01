@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
-* [Home](/)
-* [Quickstart](../_docs/docshere.md)
+* [Home](../_docs/home.md)
+* [Atas](../_docs/listareunioes.md)
