@@ -11,3 +11,4 @@ Aqui estão dispostos as atas das reuniões diárias feitas pela equipe, começa
 * [Reunião nº3](../_docs/atas/reuniao3.md)
 * [Reunião nº4](../_docs/atas/reuniao4.md)
 * [Reunião nº5](../_docs/atas/reuniao5.md)
+* [Reunião nº6](../_docs/atas/reuniao6.md)
