@@ -1,6 +1,6 @@
 # Roadmap
 
-Segue abaixo o roadmap até a terceira sprint, como estabelecido na [Reunião nº5](../_docs/atas/reuniao5.md).
+Segue abaixo o roadmap até a terceira sprint, como estabelecido na [Reunião nº5](/_docs/atas/reuniao5.md).
 
 |                     | Times | Sprint 1 - 01/04 a 12/04 (12 dias)       | Descrição                              | Composição       | Pessoas                       | Sprint 2 - 13/04 a 19/04 | Descrição                                | Sprint 3 - 20/04 a 26/04 |
 |---------------------|-------|------------------------------------------|----------------------------------------|------------------|-------------------------------|--------------------------|------------------------------------------|--------------------------|
