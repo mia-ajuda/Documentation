@@ -3,7 +3,7 @@
 Segue abaixo o roadmap até a terceira sprint, como estabelecido na [Reunião nº5](_docs/atas/reuniao5.md).
 
 |                     | Times | Sprint 1 - 01/04 a 12/04 (12 dias)       | Descrição                              | Composição       | Pessoas                       | Sprint 2 - 13/04 a 19/04 | Descrição                                | Sprint 3 - 20/04 a 26/04 |
-|---------------------|-------|------------------------------------------|----------------------------------------|------------------|-------------------------------|--------------------------|------------------------------------------|--------------------------|
+| ------------------- | ----- | ---------------------------------------- | -------------------------------------- | ---------------- | ----------------------------- | ------------------------ | ---------------------------------------- | ------------------------ |
 | Duplas: 6           | 1     | US03, US05, US06, US08, US11, US09, US12 | Cadastro e login de usuário. 3 pessoas | 1 front e 2 back | Matheus, Bernardo e Jobert    | US17, US29, US35, US26   | Fluxo de confirmar e cancelar ajuda      |                          |
 | Trio: 1             | 2     | US30, US12                               | Geolocalização. 2 Pessoas              | 1 front e 1 back | Lucas e Gabriel               | US07, US04, US02, US01   | Logar e cadastrar pelo google e facebook |                          |
 | 4 sprints no minimo | 3     | US13, US14, US28                         | Categorias. 2 Pessoas                  | 1 front e 1 back | Ésio e Dâmaso                 | US21, US25, US32         | Notificação                              |                          |
