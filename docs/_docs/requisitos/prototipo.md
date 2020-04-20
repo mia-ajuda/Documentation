@@ -12,5 +12,5 @@ Este é o protótipo inicial, feita durante as primeiras reuniões.
 ![Protótipo V1](v1.prototipo.jpg)
 
 ## Versão 2.0
-Esté é o protótipo feito em conjunto com a equipe de front end para [Reunião nº4](_docs/atas/reuniao4.md)
+
 ![Protótipo V2](v2.prototipo.png)
