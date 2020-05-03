@@ -151,31 +151,31 @@ Brasil|Leis do Brasil|Exclusivo; Tribunais do Distrito Federal|
 17.1 Lei / Jurisdição Regentes
 A menos que diferentemente exigido por lei compulsória ou por qualquer outra jurisdição, os Acordos (e quaisquer disputas/demandas extracontratuais decorrentes de ou em conexão com esses) estarão sujeitos às leis do estado ou país listado abaixo:
 
-###### 17.3.1 Resolução de disputas e arbitragem
+#### 17.3.1 Resolução de disputas e arbitragem
 
 <p align="justify">Você e o Mia Ajuda concordam que qualquer disputa, reivindicação ou controvérsia entre você e o Mia-Ajuda, decorrentes de conexão com ou relacionados de alguma forma aos Acordos, ou à sua relação com o Mia-Ajuda, enquanto um usuário do Serviço (seja com base em contrato, delito, estatuto, fraude, deturpação ou qualquer outra teoria legal e independentemente das reivindicações surgirem durante ou após o encerramento dos Acordos) será determinada pela arbitragem individual obrigatória vinculativa. A arbitragem é mais informal do que um processo tramitado em tribunal. NÃO HÁ NENHUM JUIZ OU JÚRI NA ARBITRAGEM E O TRIBUNAL DE REVISÃO DE UMA SENTENÇA ARBITRAL É LIMITADO. Pode haver uma produção de prova mais limitada do que no tribunal. O árbitro deve seguir este acordo e poderá conceder os mesmos danos e tutelas que um tribunal (incluindo honorários advocatícios), exceto pelo fato de que o árbitro não pode conceder medidas declaratórias ou cautelares que beneficiem qualquer outra pessoa, exceto as partes da arbitragem. Esta disposição de arbitragem sobreviverá a rescisão dos Acordos.</p>
 
-###### 17.3.2 Exceções
+#### 17.3.2 Exceções
 
 <p align="justify">Inobstante a cláusula 17.3.1 acima, você e o Mia-Ajuda concordam que nada neste documento será considerado de forma a renunciar, excluir ou limitar qualquer um dos nossos direitos, a qualquer momento, de (1) mover ação individual em um Tribunal de pequenas causas, (2) prosseguir com ações de execução através de agências federais, estaduais ou locais aplicáveis, onde tais ações estão disponíveis, (3) buscar uma medida cautelar em juízo, ou (4) apresentar processo judicial em um tribunal para tratar de reivindicações de violação de direitos de propriedade.</p>
 
-###### 17.3.3 Regras de Arbitragem
+#### 17.3.3 Regras de Arbitragem
 
 <p align="justify">Tanto você quanto nós podemos dar início ao processo de arbitragem. Qualquer arbitragem entre você e o Mia-Ajuda será dirimida consoante as Regras de Arbitragem da Câmara de Comércio Internacional (a "CCI"), então em vigor (as "Regras da CCI"), por um ou mais árbitros designados, em conformidade com as Regras da CCI, conforme modificado por esses Acordos e será administrado pelo Tribunal Internacional de Arbitragem da CCI.</br>
 Toda arbitragem será conduzida na língua portuguesa e, a menos que diferentemente exigido por qualquer outra jurisdição obrigatória, a lei que será aplicada em qualquer arbitragem será a lei do [estado ou país relevante listado na cláusula 17.1], sem considerar a escolha ou conflitos de princípios de direito.</p>
 
-###### 17.3.4 Momento de Apresentação
+#### 17.3.4 Momento de Apresentação
 
 <p align="justify">Qualquer arbitragem deve ser iniciada mediante a apresentação de uma demanda de arbitragem dentro de UM ANO (1) a contar da data em que a parte que realizar a apresentação tenha sabido ou deveria ter sabido do ato, omissão ou negligência que deu origem à demanda. Não haverá direito a qualquer recurso para reivindicações não confirmadas dentro desse período de tempo. Caso a lei aplicável proíba um prazo limite de um ano para realizar as reivindicações, toda reclamação deve ser realizada dentro do mais curto prazo permitido pela lei aplicável.</p>
 
-###### 17.3.5 Notificação; Processo
+#### 17.3.5 Notificação; Processo
 
 <p align="justify">A Parte que pretende buscar arbitragem deverá primeiro enviar uma notificação por escrito da disputa para a outra parte por correio registado (assinatura necessária). Caso não tenhamos um endereço físico registrado para você, a notificação deverá ser enviada por correio eletrônico ("Notificação"). O Endereço do Mia-Ajuda para a entrega de Notificações é: [LESC - Laboratório de Engenharia de Software Colaborativo/LDTEA - FGA S9 - Universidade de Brasília]. A Notificação deve (1) descrever a natureza e a base da reivindicação ou disputa; e (2) estabelecer a tutela específica almejada ("Demanda"). Concordamos em envidar esforços de boa-fé para resolver a questão diretamente, mas caso não cheguemos a um acordo para fazê-lo no prazo de 30 dias a contar do recebimento da Notificação, você ou o Mia-Ajuda poderão dar início a um processo de arbitragem. Durante a arbitragem, o montante de qualquer oferta de acordo feita por você ou pelo Mia-Ajuda não deve ser divulgado ao árbitro até que o árbitro profira sua decisão final e o valor a ser pago, se houver. Caso nossa disputa seja resolvida através de arbitragem em seu favor, o Mia-Ajuda pagará a você (1) o montante concedido pelo árbitro, se for o caso, (2) o último montante oferecido pelo Mia-Ajuda em acordo na disputa antes de o árbitro estabelecer o valor devido. Todos os documentos e informações divulgados no decurso da arbitragem devem ser mantidos confidenciais pelo destinatário e não poderão ser utilizados pelo destinatário para qualquer finalidade, exceto para fins de arbitragem ou de execução da decisão e do montante devido, e não devem ser divulgadas, exceto em confiança para pessoas que necessitem saber para tais fins ou conforme exigido pela lei aplicável. Exceto conforme necessário para executar a decisão do árbitro e o valor nela fixado, nem você nem o Mia-Ajuda poderão fazer qualquer anúncio ou comentário público ou dar início a qualquer publicidade relativa à arbitragem, incluindo, sem caráter limitativo, o fato de que as partes estão em disputa, a existência de arbitragem, ou de qualquer decisão ou valor estipulado pelo árbitro a ser pago.</p>
 
-###### 17.3.6 Modificações
+#### 17.3.6 Modificações
 
 <p align="justify">Caso o Mia-Ajuda faça qualquer mudança futura a esta disposição de arbitragem (exceto pela mudança de endereço do Mia-Ajuda para o envio de Notificações), você poderá rejeitar tal mudança nos enviando uma notificação, por escrito, no prazo de 30 dias a contar da referida alteração para o endereço do Mia-Ajuda para o envio de Notificações. Nesse caso, sua conta no Mia-Ajuda será imediatamente encerrada e esta cláusula de arbitragem, em vigência imediatamente antes das alterações por você rejeitadas, sobreviverá.</p>
 
-###### 17.3.7 Exequibilidade
+#### 17.3.7 Exequibilidade
 
 <p align="justify">Se a renúncia de ação coletiva na Seção 17.2 for determinada inexequível em arbitragem ou se qualquer parte desta Seção 17.3 for determinada nula ou inexequível, então a totalidade desta Seção 17.3 será nula e sem efeito. Nesse caso, as partes acordam que a jurisdição e foro exclusivos descritas na Seção 17.1 regerão qualquer ação decorrente de ou relacionada com os Acordos.</p>
