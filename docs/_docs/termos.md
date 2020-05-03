@@ -1,11 +1,14 @@
 # Termos e condições de uso do Mia-Ajuda
 
+### [Ir para a Política de Privacidade](/_docs/privacidade)
+
 <p align="justify">Bem-vindo aos termos e condições de uso do Mia-Ajuda (“Termos”),. Os Termos abaixo têm importância, pois tratam de:
 Indicam seus direitos legais no Mia-Ajuda.
 Demonstra os direitos que você nos concede ao usar o Mia-Ajuda.
 Descreve as regras que precisa seguir, ao utilizar o Mia-Ajuda.
 Contêm informações adicionais sobre como são utilizados seus dados.
 Por favor, esteja confortável e leia com paciência tudo que está disposto nos Termos, e também em nossa Política de Privacidade.</p>
+
 
 ## 1. Introdução
 
@@ -150,7 +153,7 @@ Brasil|Leis do Brasil|Exclusivo; Tribunais do Distrito Federal|
 <p align="justify">Se você estiver localizado, baseado, possuir escritórios ou realizar negócios em uma jurisdição na qual esta Seção 17.3, é exequível, as disposições de arbitragem obrigatória a seguir se aplicam a você:</p>
 17.1 Lei / Jurisdição Regentes
 A menos que diferentemente exigido por lei compulsória ou por qualquer outra jurisdição, os Acordos (e quaisquer disputas/demandas extracontratuais decorrentes de ou em conexão com esses) estarão sujeitos às leis do estado ou país listado abaixo:
-
+### [Ir para a Política de Privacidade](/_docs/privacidade)
 #### 17.3.1 Resolução de disputas e arbitragem
 
 <p align="justify">Você e o Mia Ajuda concordam que qualquer disputa, reivindicação ou controvérsia entre você e o Mia-Ajuda, decorrentes de conexão com ou relacionados de alguma forma aos Acordos, ou à sua relação com o Mia-Ajuda, enquanto um usuário do Serviço (seja com base em contrato, delito, estatuto, fraude, deturpação ou qualquer outra teoria legal e independentemente das reivindicações surgirem durante ou após o encerramento dos Acordos) será determinada pela arbitragem individual obrigatória vinculativa. A arbitragem é mais informal do que um processo tramitado em tribunal. NÃO HÁ NENHUM JUIZ OU JÚRI NA ARBITRAGEM E O TRIBUNAL DE REVISÃO DE UMA SENTENÇA ARBITRAL É LIMITADO. Pode haver uma produção de prova mais limitada do que no tribunal. O árbitro deve seguir este acordo e poderá conceder os mesmos danos e tutelas que um tribunal (incluindo honorários advocatícios), exceto pelo fato de que o árbitro não pode conceder medidas declaratórias ou cautelares que beneficiem qualquer outra pessoa, exceto as partes da arbitragem. Esta disposição de arbitragem sobreviverá a rescisão dos Acordos.</p>
@@ -179,3 +182,5 @@ Toda arbitragem será conduzida na língua portuguesa e, a menos que diferenteme
 #### 17.3.7 Exequibilidade
 
 <p align="justify">Se a renúncia de ação coletiva na Seção 17.2 for determinada inexequível em arbitragem ou se qualquer parte desta Seção 17.3 for determinada nula ou inexequível, então a totalidade desta Seção 17.3 será nula e sem efeito. Nesse caso, as partes acordam que a jurisdição e foro exclusivos descritas na Seção 17.1 regerão qualquer ação decorrente de ou relacionada com os Acordos.</p>
+
+### [Ir para a Política de Privacidade](/_docs/privacidade)

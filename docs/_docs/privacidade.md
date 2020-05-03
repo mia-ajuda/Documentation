@@ -1,5 +1,7 @@
 # Políticas de Privacidade do Mia-Ajuda
 
+### [Ir para os Termos de Uso](/_docs/termos)
+
 ## 1.Introdução
 
 Obrigado por colaborar com o Mia-Ajuda!
@@ -103,3 +105,5 @@ Obrigado por colaborar com o Mia-Ajuda!
 ## 11.Como entrar em contato conosco?
 
 <p align="justify">Obrigado por ler a nossa Política. Se tiver alguma dúvida sobre a presente Política, entre em contato com a Equipe Mia-Ajuda, que se encontra na Universidade de Braília, LESC - Laboratório de Engenharia de Software Colaborativo/LDTEA - FGA S9.</p>
+
+### [Ir para os Termos de Uso](/_docs/termos)
