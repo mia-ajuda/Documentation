@@ -1,3 +1,6 @@
+<br>
+<br>
+
 # Principais Funcionalidades (até o momento)
 
 #### Histórico de Revisões
