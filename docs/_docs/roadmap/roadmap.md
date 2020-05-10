@@ -1,3 +1,6 @@
+<br>
+<br>
+
 # Roadmap
 
 ## Sprint 1 - 01/04 a 12/04 (12 dias)
@@ -39,7 +42,7 @@
 | 7     |Subir back|Subir back|Kamila e gulherme |
 | 8     |Crud de notificação|Notificações | Welison, Leo e Hugo |
 
-## Sprint 4 - 04/05 - 
+## Sprint 4 - 04/05 -
 
 | Times | Atividades  | Descrição | Pessoas |
 | ----- | ----------- | --------- | --------|
@@ -49,4 +52,3 @@
 | 4     | Termos do facebook |Termos do facebook |Matheus e jobert|
 | 5     |Documentacao| Atualizar e revisar documentação|  Dâmaso e Eduardo R |
 | 6     |Swagger|Documentar API| Bernardo e Welison|
-
