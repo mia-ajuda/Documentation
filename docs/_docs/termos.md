@@ -1,3 +1,6 @@
+<br>
+<br>
+
 # Termos e condições de uso do Mia-Ajuda
 
 ### [Ir para a Política de Privacidade](/_docs/privacidade)
