@@ -6,7 +6,7 @@
 | Todos | 1.0 | Criação do Backlog |31 Mar 2020 |
 
 
-|Épico        |Feature        |FIELD3|US                                                                                                                                                                                             |Prioridade|Interessados                                 |
+|Épico        |Feature        |US|Descrição                                                                                                                                                                                             |Prioridade|Interessados                                 |
 |-------------|---------------|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------|
 |E01 - Usuário|F01 - Login    |US01  |Eu, como usuário, gostaria de realizar o login via Facebook, para agilizar o processo de login                                                                                                 |Should    |                                             |
 |             |               |US02  |Eu, como usuário, gostaria de realizar o login via conta Google, para agilizar o processo de login                                                                                             |Should    |                                             |
