@@ -1,13 +1,15 @@
 <br>
 <br>
 
-# Principais Funcionalidades (até o momento)
-
 #### Histórico de Revisões
 |Nome |  Versão | Descrição |  Data    |
 |-----------------------------------|--------------------|---------------|-----------------|
 | Esio Gustavo Freitas | 1.0.1 | Fluxo Desenhado |28 Mar 2020 |
 | Todos | 1.0 | Esboço de Funcionalidades |29 Mar 2020 |
+
+# Release 01 - Sphynx
+
+Nesta página estará disposto todas as funcionalidades que a equipe pretende desenvolver para a primeira release do aplicativo. Descrito de forma mais técnica.
 
 ![V1_Fluxo Desenhado](V1_Fluxo_Desenhado.jpg)
 
@@ -20,7 +22,7 @@
 
 ## CRUD Ajuda
 - Cadastrar Ajuda
-    - Criar Cadastro de Ajuda
+    - Criar Cadastro de Ajuda <br>
  Obs: Essa criação tem que ser baseada nas categorias pré-estabelecidas. Então, tem que apresentar as mesmas via combo. Temos que decidir sobre essas categorias para fechamento do projeto piloto. Além disso, tem que permitir que seja inserida uma categoria nova, mas a mesma precisará ser validada por um moderador, antes de ser disponibilizada de fato no combo. Portanto, essa funcionalidade “Criar Cadastro de Ajuda” está atrelada às funcionalidades: Permitir Seleção da Categoria via Combo e Solicitar Criação de uma Nova Categoria.
     - Ler Cadastro de Ajuda
     - Atualizar Cadastro de Ajuda
@@ -39,8 +41,8 @@
     - Realizar Login Interativo via Gmail
 
 ## Edição de Perfil
-- Editar Perfil
-Obs.: cpf/cnpj não podem ser alterados por questão de segurança
+- Editar Perfil <br>
+Obs.: CPF/CNPJ não podem ser alterados por questão de segurança
 
 ## Geolocalização
 - Obter Geolocalização do Usuário
@@ -59,9 +61,8 @@ Meus Pedidos
 - Visualizar Meus Pedidos
 - Acompanhar Meus Pedidos
 	- Acompanhar Meus Pedidos em Andamento
-            - Listar Ofertas de ajudas
+      - Listar Ofertas de ajudas
 	- Acompanhar Meus Pedidos Finalizados
-
 
 ## Minhas Ajudas
 - Visualizar Minhas Ajudas
@@ -80,9 +81,3 @@ Meus Pedidos
 - Suprimentos Básicos
 - Transporte de Emergência
 - Apoio Físico
-
-
-
-
-
-
