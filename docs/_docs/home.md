@@ -59,8 +59,8 @@ Para vizualizar basta acessar:
 
 |Foto                           |E-mail                       |Github           |
 |-----------------------------------|-----------------------------|-----------------|
-|<img src="../assets/img/membros/milene.jpg" width="100" height="100" />    |mileneserrano@gmail.com      |[@milenserrano](https://github.com/mileneserrano)|
-|<img src="../assets/img/membros/mauricio.jpg" width="100" height="100" />   |serr.mau@gmail.com           |[@mauserr](https://github.com/mauserr)|
+|<img src="./../assets/img/membros/milene.jpg" width="100" height="100" />    |mileneserrano@gmail.com      |[@milenserrano](https://github.com/mileneserrano)|
+|<img src="./../assets/img/membros/mauricio.jpg" width="100" height="100" />   |serr.mau@gmail.com           |[@mauserr](https://github.com/mauserr)|
 |<img src="https://avatars3.githubusercontent.com/u/34384624?s=460&u=a8af72d74d179b666045274181a6fd2ae3e5e661&v=4" width="100" height="100" />    |esio.gustavo@gmail.com       |[@EsioFreitas](https://github.com/EsioFreitas)      |
 |<img src="https://avatars1.githubusercontent.com/u/37307099?s=460&u=10440fe237247f4881c2fd6893d9e4a08b904deb&v=4" width="100" height="100" />        |gdavi.gd@gmail.com           |[@gabrieldvpereira](https://github.com/gabrieldvpereira)  |
 |<img src="https://avatars0.githubusercontent.com/u/31973465?s=460&u=026d4e33f0f5f522433852a3c04b6aeb1f5682d8&v=4" width="100" height="100" />       |pheofo@gmail.com             |[@phe0](https://github.com/phe0) |
