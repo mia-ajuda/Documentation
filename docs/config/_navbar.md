@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Home](_docs/home.md)
+* [Home](README.md)
 * [Artefatos](_docs/requisitos/artefatos.md)
 * [Metodologia](_docs/metodologia/metodologia.md)
 * [Roadmap](_docs/roadmap/roadmap.md)
