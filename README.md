@@ -69,8 +69,9 @@ Para vizualizar basta acessar:
 |<img src="https://avatars2.githubusercontent.com/u/17153869?s=460&u=a7e763d27211be76113f050979dd09d04324a30d&v=4" width="100" height="100" />     |junio.pereirab@gmail.com     |[@juniopereirab](https://github.com/juniopereirab) |
 |<img src="https://avatars3.githubusercontent.com/u/26796127?s=460&u=555fffc844fbe239cf68e23b4320b2252c4eba76&v=4" width="100" height="100" />|leossb36@gmail.com           |[@leossb36](https://github.com/leossb36)|
 |<img src="https://avatars0.githubusercontent.com/u/42387797?s=460&u=6d271b248f555700f723badb5f30a99e3cd271b2&v=4" width="100" height="100" />               |ivandinizdobbin2@gmail.com   |[@darmsDD](https://github.com/darmsDD)|
-|<img src="https://avatars2.githubusercontent.com/u/32804970?s=460&u=b239e324d6ac1913c0ebd2354d60c756634eb5a3&v=4" width="100" height="100" />|marquesguilherme3@gmail.com|[@guilhesme23](https://github.com/guilhesme23)|
-|<img src="https://avatars2.githubusercontent.com/u/30934827?s=400&u=d5e1800095e663039c6ea0e372adee6667abd2ae&v=4" width="100" height="100" />|kamillacosta.unb@gmail.com|[@KahCosta](https://github.com/KahCosta)|
+|<img src="https://avatars0.githubusercontent.com/u/35435199?s=400&u=bd831c708657e62d035e7dff215f7b63e73ec944&v=4" width="100" height="100" />|saleh.nazih.dev@gmail.com|[@devsalula](https://github.com/devsalula)|
+|<img src="https://avatars1.githubusercontent.com/u/43159230?s=400&u=47aafc70b3232d894695d08dbbec68b063df5f35&v=4" width="100" height="100" />|dudamelo82@gmail.com|[@dudamelo82](https://github.com/dudamelo82)|
+|<img src="https://avatars3.githubusercontent.com/u/46005310?s=400&u=753721dc0a1362951260f0dfbe3b51c3c8f0e7cf&v=4" width="100" height="100" />|isudjoao@gmail.com|[@sudjoao](https://github.com/sudjoao)|
 
 
 
@@ -89,3 +90,5 @@ Para vizualizar basta acessar:
 |<img src="https://avatars1.githubusercontent.com/u/37154573?s=460&u=6f3a8f4aa83489a2cb1efe0eec06482de1fc04e0&v=4" width="100" height="100" />       |gmanso@mit.edu               |[@gabrielfilipe7unb](https://github.com/gabrielfilipe7unb)|
 |<img src="https://avatars3.githubusercontent.com/u/21176137?s=400&u=63f7336b0e269be24001ab2c81497c068df82923&v=4" width="100" height="100" />|lucas.soaresouza@gmail.com|[@lucassoaresouza](https://github.com/lucassoaresouza)|
 |<img src="https://avatars3.githubusercontent.com/u/43852963?s=400&u=708a5d4f68ad78128aedd9330dfc8c7585b7155a&v=4" width="100" height="100" />|hugosobral10@gmail.com|[@KiSobral](https://github.com/KiSobral)|
+|<img src="https://avatars2.githubusercontent.com/u/32804970?s=460&u=b239e324d6ac1913c0ebd2354d60c756634eb5a3&v=4" width="100" height="100" />|marquesguilherme3@gmail.com|[@guilhesme23](https://github.com/guilhesme23)|
+|<img src="https://avatars2.githubusercontent.com/u/30934827?s=400&u=d5e1800095e663039c6ea0e372adee6667abd2ae&v=4" width="100" height="100" />|kamillacosta.unb@gmail.com|[@KahCosta](https://github.com/KahCosta)|
