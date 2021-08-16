@@ -16,6 +16,7 @@ Aqui estão dispostos os artefatos de requisitos feitos pela equipe.
 
 ## Modelagem dos Requisitos
 * [Backlog de Produto](_docs/requisitos/backlogproduto.md)
+* [Léxicos](_docs/requisitos/lexicos.md)
 </br>
 </br>
 
