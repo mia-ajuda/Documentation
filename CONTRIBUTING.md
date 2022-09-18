@@ -1,4 +1,4 @@
-# Guia de Contribuição :smile:
+# CONTRIBUTING :smile:
 
 Welcome to Mia-Ajuda!
 
