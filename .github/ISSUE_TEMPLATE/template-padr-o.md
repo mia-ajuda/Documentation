@@ -1,31 +1,17 @@
 ---
-name: Template padrão
-about: Template padrão para criação das issues comuns.
-title: ''
-labels: ''
-assignees: ''
-
+name: Feature or Improvement Request
+about: Request some improvement to a functionality that exists or a new feature.
 ---
 
-## Título da issue
+<!--- Put [FEATURE] / [IMPROVE] in front of the title above -->
 
-### Descrição:
+## Description
+<!-- Describe what is the motivation and use case for this feature -->
 
-### Critérios de aceitação:
+## Tasks
+<!-- Describe what the assignee have to do to complete this issue, if possible -->
 
-- Deverá ter o campo ...;
-- Deverá calcular/apresentar ...;
-- Funcionalidade testada;
+## What is the current behavior?
+<!-- If this is a feature that doesn't change any current behavior, please ignore this topic -->
 
-
-### Tarefas:
-
-- [ ] Não é um épico. [Leia](https://sitecampus.com.br/user-story-epico-e-tema-qual-diferenca/);
-- [ ] É testável;
-- [ ] É estimável pelo time de desenvolvimento;
-
-### Observações:
-
-- A issue deve ser pontuada;
-- A issue deve ser delegada a alguém;
-- A issue deve ter labels;
+<!-- Label the issues with the appropriate tags. -->
