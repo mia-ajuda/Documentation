@@ -1,97 +1,97 @@
 # Guia de Contribuição :smile:
 
-Bem vindo ao Mia Ajuda!
+Welcome to Mia-Ajuda!
 
-Adoramos quando novas pessoas contribuem com o projeto. Queremos que a sua contribuição para o Mia Ajuda se torne a mais simples possível. Todas as ajudas ao projeto são bem vindas, seja:
+We love it when people contribute to the project. We want your contribution to Mia-Ajuda to be as simple as possible. All help to the project is welcome, you can:
 
-* Reportando _bugs_ encontrados;
-* Enviando correção de _bugs_;
-* Propondo novas soluções para o projeto, seja: Visual, Arquitetural ou de Negócio;
-* Propondo novas funcionalidades;
-* Implementado novas funcionalidades previstas em _issues_ nos nossos repositórios.
+* Reporting founded _bugs_;
+* Contributing with solutions for reported _bugs_;
+* Proposing new solutions for the project, whether: Visual, Architectural or Business;
+* Proposing new features;
+* Implementing new features provided in _issues_ in our repositories.
 
-Caso queira conhecer melhor nosso projeto, acesse o nosso [site](https://miaajuda.netlify.app/), nosso [Instagram](https://www.instagram.com/miaajuda/) ou a nossa [Organização no Github](https://github.com/mia-ajuda).
+If you want to know more about our project, access our [web-site](https://miaajuda.netlify.app/), our [Instagram](https://www.instagram.com/miaajuda/) or our [GitHub Organization](https://github.com/mia-ajuda).
 
-Para entrar em contato conosco, além de abrir uma _issue_ aqui no Github, você pode nos enviar um email, para: miaajudadev@gmail.com
+To contact us, in addition to opening an _issue_ here on Github, you can send us an email, to: miaajudadev@gmail.com
 
-## Como Iniciar a sua Contribuição ao Mia Ajuda
+## How to Start Your Contribution to Mia-Ajuda
 
-Muito Obrigado pelo interesse em contribuir para o Projeto. 
+Thank you very much for your interest in contributing to the Project. 
 
-Para iniciar a sua jornada, você pode estar contribuindo para o projeto abrindo _issues_ em nosso repositório de documentação [repositório](https://github.com/mia-ajuda/Documentation/issues), seguindo o nosso [template](https://github.com/mia-ajuda/Documentation/tree/master/.github/ISSUE_TEMPLATE). Essas _issues_ podem ser abertas reportando possíveis _bugs_ ou sugerindo novas funcionalidades para o projeto.
+To start your journey, you can be contributing to the project by opening _issues_ in our [documentation repository](https://github.com/mia-ajuda/Documentation/issues), following our [template](https:/ /github.com/mia-ajuda/Documentation/tree/master/.github/ISSUE_TEMPLATE). These _issues_ can be opened reporting possible _bugs_ or suggesting new features for the project.
 
-Caso você queira contribuir para o código do Mia Ajuda, basta seguir os próximos passos:
+If you want to contribute to the Mia Ajuda code, just follow the next steps:
 
-* Busque a _issue_ na qual você se identifica, se marque e comente nessa _issue_. Atenção: Certifique-se antes, de que a _issue_ não está sendo resolvida por alguém, antes;
-* Faça um _fork_ dos nossos repositórios, se você for um contribuidor externo;
-* Crie uma _branch_ a partir da develop, seguindo nossas políticas de _branch_;
-* Crie um _Pull Request_ com o status _WIP_, no repositório para nos certificarmos que você está trabalhando na sua _issue_;
-* Ao gerar _commits_, siga a nossa política de _commits_;
-* Ao concluir o desenvolvimento da _issue_, troque o status do seu _Pull Request_ de _WIP_ para _Solve_, seguindo o nosso [template de Pull Request](https://github.com/mia-ajuda/Backend/blob/develop/.github/pull_request_template.md);
-* Após um revisor aprovar o seu _Pull Request_, mescle-o com a a _branch_ base, seguindo a política do [_Squash Rebase_](https://docs.github.com/pt/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-pull-request-commits);
+* Search for the _issue_ in which you identify, assign yourself and comment on this _issue_. Attention: Make sure that the _issue_ is not being resolved by someone, before you assign yourself;
+* _Fork_ our repositories if you are an external contributor;
+* Create a _branch_ from develop, following our _branch_ policies;
+* Create a _Pull Request_ with status _WIP_, in the repository to make sure you are working on your _issue_;
+* When generating _commits_, follow our _commits_ policy;
+* When you're done developing the _issue_, change the status of your _Pull Request_ from _WIP_ to _Solve_, following our [Pull Request template](https://github.com/mia-ajuda/Documentation/blob/master/.github/pull_request_template.md);
+* After a reviewer approves your _Pull Request_, merge it with the _branch_ base, following the policy of [_Squash Rebase_](https://docs.github.com/pt/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-pull-request-commits);
 
-## _Workflow_ de Trabalho
+## Contributing _Workflow_
 
-Todo o nosso _workflow_ de trabalho é inteiramente baseado no [_GitFlow_](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow).
+Our entire _workflow_ is entirely based on the [_GitFlow_](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow).
 
-## Politicas de _Branches_
+## _Branches_ Policies
 
-As _branches_ são dividas em camadas de desenvolvimento, baseado do modelo do [_GitFlow_](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow), sendo a `main` a camada que contém a aplicação em sua versão estável, a `develop` a versão de estado em desenvolvimento. Para a criação de `feature` _branches_ utilize a `develop` como base.
+The _branches_ are divided into layers of development, based on the [_GitFlow_](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow), `main` being the layer that contains the application in its stable version, `develop` being the developing state version. For creating `feature` _branches_ use `develop` as base.
 
-O formato para os nomes das _feature_ _branches_ será composto por: 
+The format for the _feature_ _branches_ names will be:
 
-US + NUMERO_DA_US + FUNCIONALIDADE.
+US + US_NUMBER + FUNCTIONALITY'S DESCRIPTION.
 
-Exemplo:
+Example:
 ```
 US13-Creation_of_a_new_screen
 ```
 
-Para _hotfix branches_, o formato do nome da _branch_ se dará pela seguinte forma:
+For _hotfix branches_, the format of the _branch_ name will be as follows:
 
-HOTFIX + NOME_DA_FIX
+HOTFIX + DESCRIPTION
 
-Exemplo:
+Example:
 ```
 hotfix_login_bug
 ```
 
-### Mantendo as _branches_ atualizadas
+### Keeping _branches_ up to date
 
-Mantenha as suas _branches_ atualizadas com a _branch_ base. Utilize o comando _rebase_ para isso.
+Keep your _branches_ up to date with the base _branch_. Use the _rebase_ command for this.
 
-Exemplo:
+Example:
 
 ```
 > git pull --rebase origin develop
 ```
 
-## Política de _Commits_
+## _Commits_ Policy
 
-Os nossos _commits_ possuem um [_lint_](https://github.com/legend80s/commit-msg-linter#readme), sendo obrigatório seguir esse padrão: 
+Our _commits_ have a [_lint_](https://github.com/legend80s/commit-msg-linter#readme), being mandatory to follow this pattern:
 
 ```
-tipo do commit: descrição concisa e em inglês do commit
+Concise and English description.
 ```
 
-Exemplo:
+Example:
 
 ```
 git commit -m "feat: create login button"
 ```
 
-As nossas regras são:
+Our rules are:
 
-* _Commits_ devem ser redigidos em idioma inglês;
-* Devem seguir as regras do [_lint_](https://github.com/legend80s/commit-msg-linter#readme);
-* Devem ser simples e concisos, possuindo títulos curtos;
-* Devem iniciar com verbo no infinitivo informando o objetivo.
+* _Commits_ must be written in English;
+* Must follow the rules of [_lint_](https://github.com/legend80s/commit-msg-linter#readme);
+* They should be simple and concise, with short titles;
+* They must start with a verb in the infinitive, informing the objective.
 
-### _Commits_ em equipes
+### _Commits_ in teams
 
-Caso mais de uma pessoa tenha trabalhado com você no _commit_, utilize do _Co-authored-by_, na descrição do _commit_.
+If more than one person has worked with you on _commit_, use _Co-authored-by_ in the _commit_ description.
 
-Exemplo:
+Example:
 
 ```
 fix: fix contacts modal
